@@ -1,11 +1,24 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2513
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 \
-This is my read me file\
-\
-I have modifie this file}
+
+
+This is my read me file
+
+I have modifie this file
+
+git clone <<project url>>   just for the first time
+
+git add  <<file name>> to track the newly created file OR use git add .   to add all the changed files
+
+git commit -m " custom message "
+
+git pull  ----> to check if there any updates by other developers
+
+git push ---> to update your changes on the remote repository
+
+
+---Branching----
+
+git fetch   ---> to fetch newly created branches
+
+git checkout   <<branch name>> switches your local project to the given branch
+
